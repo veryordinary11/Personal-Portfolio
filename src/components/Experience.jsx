@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-import { motion, useScroll } from "framer-motion";
 
 const Details = ({ position, company, time, address, work }) => {
   return (

@@ -92,7 +92,7 @@ const projects = () => {
                   <h2 className="text-6xl lg:text-6xl md:text-5xl sm:text-4xl font-bold col-span-4 lg:mt-4">
                     PokerHelper
                     <p className="text-lg lg:text-base md:text-sm font-mont col-span-2 mt-2">
-                      An assistant of Texas' Holdem Poker.
+                      An assistant of Texas&apos; Holdem Poker.
                     </p>
                   </h2>
 

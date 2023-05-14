@@ -70,10 +70,10 @@ const about = () => {
               </p>
 
               <p className="font-medium mt-4">
-                I'm equipped with strong English reading and writing skills, I
-                could read English Tech Docs fluently. Plan to go to the
-                Netherlands to further study Data Science. What's more, I have
-                certificate of TFU-4 and plan to learn Dutch.
+                I&apos;m equipped with strong English reading and writing
+                skills, I could read English Tech Docs fluently. Plan to go to
+                the Netherlands to further study Data Science. What&apos;s more,
+                I have certificate of TFU-4 and plan to learn Dutch.
               </p>
             </div>
 
