@@ -49,6 +49,14 @@ const Experience = () => {
             address="Remote"
             work="Side Project. Develop a Texas Hold'em hands recording system, which has the function of recording hands and statistics. Responsible for front-end web development, using git for teamwork."
           />
+
+          <Details
+            position="Front-End Developer"
+            company="Dewu"
+            time="2023.05-now"
+            address="HangZhou"
+            work="Front-end Devloper. Responsible for front-end web development, using GitLab for teamwork."
+          />
         </ul>
       </div>
     </div>
